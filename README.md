@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-Hello! I'm Vuong Le, a passionate student on a journey to master the art of web development. My current focus includes HTML, CSS, JavaScript, React, and TypeScript.
+Hello! I'm Vuong Le, a passionate student on a journey to improve myself every day in the field of web development.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,git)](https://skillicons.dev)
 <br>

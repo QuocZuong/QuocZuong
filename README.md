@@ -1,16 +1,30 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
 
-<!--
-**QuocZuong/QuocZuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Vuong Le, a passionate student on a journey to master the art of web development. My current focus includes HTML, CSS, JavaScript, React, and TypeScript.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,git)](https://skillicons.dev)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quoc-vuong/)
+
+## 📫 Some of my projects:
+
+<a href="https://github.com/QuocZuong/Flappy-bird/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=Flappy-bird&theme=radical" />
+</a>    
+<a href="https://github.com/QuocZuong/randomWord/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=randomWord&theme=nightowl" />
+</a>
+
+<a href="https://github.com/QuocZuong/python/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=python&theme=algolia" />
+</a>    
+<a href="https://github.com/QuocZuong/weather-forecast">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=weather-forecast&theme=highcontrast" />
+</a>

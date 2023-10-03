@@ -2,7 +2,7 @@
 
 Hello! I'm Vuong Le, a passionate student on a journey to improve myself every day in the field of web development.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,py,git)](https://skillicons.dev)
 <br>
 
 ## 📫 How to reach me:

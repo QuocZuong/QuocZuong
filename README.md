@@ -33,7 +33,7 @@ Hello! I'm Vuong Le Quoc, a passionate student on a journey to improve myself ev
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=python&theme=algolia" />
 </a>    
-<a href="https://github.com/QuocZuong/threads">
+<a href="https://github.com/QuocZuong/threads/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=threads&theme=synthwave" />
 </a>

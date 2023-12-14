@@ -2,7 +2,7 @@
 
 Hello! I'm Vuong Le Quoc, a passionate student on a journey to improve myself every day in the field of web development.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,nodejs,py,mongodb,git,postman)](https://github.com/QuocZuong)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,nodejs,py,mongodb,postman,git)](https://github.com/QuocZuong)
 <br>
 
 ## 📫 How to reach me:

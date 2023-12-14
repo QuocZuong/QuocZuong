@@ -2,12 +2,12 @@
 
 Hello! I'm Vuong Le Quoc, a passionate student on a journey to improve myself every day in the field of web development.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,java,nodejs,py,mongodb,git,postman)](https://github.com/QuocZuong)
 <br>
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quoc-vuong/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quoc-vuong/)
 
 ## 📫 Some of my projects:
 
@@ -35,5 +35,5 @@ Hello! I'm Vuong Le Quoc, a passionate student on a journey to improve myself ev
 </a>    
 <a href="https://github.com/QuocZuong/weather-forecast">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=weather-forecast&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=QuocZuong&repo=threads&theme=synthwave" />
 </a>

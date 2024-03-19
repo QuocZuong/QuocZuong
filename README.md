@@ -19,12 +19,12 @@
 </div>
 <hr/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full">
+<img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/mario.gif?raw=true" width="full">
 
 <hr/>
 
 <h3>
- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="skill" width="30" align="center"> Skills
+ <img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/skill.gif?raw=true" alt="skill" width="30" align="center"> Skills
 </h3>
 
 -   Frontend: `react`, `nextjs`, `scss/sass`, `bootstrap`, `tailwindcss`, `chakra-ui`, `shadcn`, `typescript`,
@@ -33,7 +33,7 @@
 <hr/>
 
 <h3 >
- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" align="center"/>
+ <img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/handshake.png?raw=true" alt="Handshake" width="30" align="center"/>
 Get in Touch
  
 </h3>
@@ -44,14 +44,14 @@ Get in Touch
 <hr/>
 
 <h3 >
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="30" align="center"/>
+<img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/email.png?raw=true" alt="E-Mail" width="30" align="center"/>
  Looking for my Resume? E-Mail me!
 </h3>
 
 <hr/>
 
 <h3 >
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" align="center"/>
+<img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/fire.png?raw=true" alt="Fire" width="30" align="center"/>
  Github Stats
 </h3>
 

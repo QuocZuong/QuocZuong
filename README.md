@@ -1,6 +1,6 @@
 ## 🌸 Quoc Vuong ———@quoczuong
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=93&duration=4000&pause=300&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=5000&height=240&lines=Hi+there+I'm+a+passionate+student+on+a+journey+to+improve+myself+every+day+in+the+field+of+web+development." width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=93&duration=4000&pause=300&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=5000&height=240&lines=Hi+there+I'm+a+passionate+software+engineer+on+a+journey+to+improve+myself+every+day." width="100%" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS" />

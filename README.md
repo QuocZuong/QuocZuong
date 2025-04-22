@@ -3,25 +3,48 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=93&duration=4000&pause=300&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=5000&height=240&lines=Hi+there+I'm+a+passionate+software+engineer+on+a+journey+to+improve+myself+every+day." width="100%" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
+  <!-- Frontend Group -->
+  <div>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  </div>
+  <div style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  </div>
   
+  <!-- Backend Group -->
+  <div style="margin-top: 12px;">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go" />
+  </div>
+  
+  <!-- DevOps Group -->
+  <div style="margin-top: 12px;">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
+  </div>
+  
+  <!-- Other Group -->
+  <div style="margin-top: 12px;">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Rabbitmq" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  </div>
+  <div style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/elasticsearch-yellow?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+    <img src="https://img.shields.io/badge/kibana-hotpink.svg?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+    <img src="https://img.shields.io/badge/beats-%2338B2AC.svg?style=for-the-badge&logo=beats&logoColor=white" alt="Beats" />
+    <img src="https://img.shields.io/badge/Grafana-231F20?style=for-the-badge&logo=Grafana" alt="Grafana" />
+    <img src="https://img.shields.io/badge/Prometheus-%2320232a.svg?style=for-the-badge&logo=Prometheus" alt="Prometheus" />
+  </div>
 </div>
+
+
 <hr/>
 
 <img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/mario.gif?raw=true" width="full">
@@ -32,9 +55,10 @@
  <img src="https://raw.githubusercontent.com/QuocZuong/QuocZuong/master/assets/skill.gif?raw=true" alt="skill" width="30" align="center"> Skills
 </h3>
 
--   Frontend: `react`, `react native`, `expo`, `nextjs`, `scss/sass`, `bootstrap`, `tailwindcss`, `chakra-ui`, `shadcn`
--   Backend: `nodejs`, `go`, `java` 
+-   Frontend: `react`, `react native`, `expo`, `nextjs`, `scss/sass`, `bootstrap`, `tailwindcss`
+-   Backend: `nodejs`, `go`,
 -   DevOps: `docker`, `kubernetes`
+-   Others: `redis`, `kafka`, `rabbitmq`, `elk stack`, `beats`, `grafana`, `prometheus`
 
 <hr/>
 

@@ -56,7 +56,7 @@
 </h3>
 
 -   Frontend: `react`, `react native`, `expo`, `nextjs`, `scss/sass`, `bootstrap`, `tailwindcss`
--   Backend: `nodejs`, `go`,
+-   Backend: `nodejs`, `go`
 -   DevOps: `docker`, `kubernetes`
 -   Others: `redis`, `kafka`, `rabbitmq`, `elk stack`, `beats`, `grafana`, `prometheus`
 

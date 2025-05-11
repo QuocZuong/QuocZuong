@@ -23,18 +23,22 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go" />
   </div>
   
-  <!-- DevOps Group -->
-  <div style="margin-top: 12px;">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
-  </div>
-  
   <!-- Other Group -->
   <div style="margin-top: 12px;">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Rabbitmq" />
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
   </div>
+
+  <!-- DevOps Group -->
+  <div style="margin-top: 12px;">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Jenkins&logoColor=white" alt="AWS" />
+  </div>
+
+  <!-- Monitoring Group -->
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/elasticsearch-yellow?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
     <img src="https://img.shields.io/badge/kibana-hotpink.svg?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
@@ -57,7 +61,7 @@
 
 -   Frontend: `react`, `react native`, `expo`, `nextjs`, `scss/sass`, `bootstrap`, `tailwindcss`
 -   Backend: `nodejs`, `go`
--   DevOps: `docker`, `kubernetes`
+-   DevOps: `docker`, `kubernetes`, `jenkins`, `aws`
 -   Others: `redis`, `kafka`, `rabbitmq`, `elk stack`, `beats`, `grafana`, `prometheus`
 
 <hr/>
